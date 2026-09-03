@@ -1,3 +1,15 @@
+//# 1. Move into your specific GitHub folder
+//cd Github-Java
+//
+//# 2. Stage your updated files
+//git add .
+//
+//        # 3. Commit the changes
+//git commit -m "Updated recursion file"
+//
+//        # 4. Push the changes to GitHub
+//git push origin main
+
 public class fibonacci {
 
     public static void main(String[] args) {
