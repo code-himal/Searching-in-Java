@@ -38,10 +38,5 @@ public class Remove_Dubli {
         }
 
         System.out.println(sum);
-
-
-
-
-
     }
 }
